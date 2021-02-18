@@ -7,7 +7,7 @@ bytes copied.
 
 ## Installation
 ```
-go get -u github.com/jsageryd/count
+go install github.com/jsageryd/count@latest
 ```
 
 ## Usage examples
